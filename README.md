@@ -1,10 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+PUynn+%F0%9F%91%8B;Always+Learning%2C+Always+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-
 ## 🧑‍💻 About Me
+<div align="center">
 
 </div>
 
@@ -12,11 +10,11 @@
 <tr>
 <td valign="top" width="65%">
 
-🎓 Information Security student at UIT — Vietnam National University HCMC
+Information Security student at UIT - Vietnam National University HCMC
 
-🌱 Currently diving deeper into **Malware Analysis** & **Digital Forensics**
+Currently diving deeper into **Malware Analysis** & **Digital Forensics**
 
-  - "Make it exist first, make it good later"
+  🌱  "Make it exist first, make it good later"
 
 </td>
 <td valign="middle" align="center" width="35%">
@@ -28,10 +26,8 @@
 </table>
 
 ---
-
-<div align="center">
-
 ## 🛠️ Tools & Languages
+<div align="center">
 
 ### 🧰 Platforms / Tools
 
