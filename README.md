@@ -1,11 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+PUynn+%F0%9F%91%8B;Always+Learning%2C+Always+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
 ## 🧑‍💻 About Me
-<div align="center">
-
-</div>
-
 <table align="center" border="0">
 <tr>
 <td valign="top" width="65%">
